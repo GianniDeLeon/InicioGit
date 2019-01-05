@@ -1,6 +1,6 @@
 <?php
   $ella = "Te ama";
-  echo "Hola mundo";
+  echo "Hola Smart";
   if ($ella = "Te ama") {
     $feliz = true;
   }else {
