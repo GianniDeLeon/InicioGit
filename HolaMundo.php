@@ -6,4 +6,7 @@
   }else {
     $feliz = false;
   }
+  if($feliz){
+    echo "HAPPY :)";
+  }
  ?>
